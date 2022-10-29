@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ozioma
-- 👀 I’m interested in software development
-- 🌱 I’m currently learning C# ASP.NET COre
+- 👀 I’m a software developer
+- 🌱 Fluent in C#.NET | Node.Js | React | Java/Kotlin | SQL/NoSQL | JavaScript | Angular |
 - 💞️ I’m looking to collaborate on building web applications
 - 📫 You can reach me at oziomaene@gmail.com
 
