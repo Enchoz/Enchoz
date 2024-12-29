@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ozioma Ene
 - 👀 I’m a senior full-stack software engineer
-- 🌱 Fluent in C#.NET | Node.Js | React | Java/Kotlin | SQL/NoSQL | JavaScript | Angular |
+- 🌱 Fluent in Java | C#.NET | Node.Js | React | Kotlin | SQL/NoSQL | JavaScript | Angular |
 - 💞️ I’m looking to collaborate on building web applications
 - 📫 You can reach me at oziomaene@gmail.com
 
