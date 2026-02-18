@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Ozioma Ene
 - 👀 I’m a senior full-stack software engineer
-- 🌱 Fluent in Java | C#.NET | Node.Js | React | Kotlin | SQL/NoSQL | JavaScript | Angular |
-- 💞️ I’m looking to collaborate on building web applications
+- 🌱 Fluent in Java | C#.NET | Go | React | Kotlin | SQL/NoSQL | JavaScript | Angular |
+- 🔥 Designing and optimizing scalable, high-throughput systems for fintech, AI, and real-time distributed architectures.
 - 📫 You can reach me at oziomaene@gmail.com
 
 <!---
